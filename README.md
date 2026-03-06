@@ -15,8 +15,17 @@ Apasionada por la extracción de valor a partir de los datos. Mi enfoque combina
 ---
 
 ### 📂 Mis Proyectos de Análisis
-* **[Nombre del Proyecto 1]**: Análisis de [tema] usando Python y SQL. [Ver Repo]
-* **[Nombre del Proyecto 2]**: Dashboard interactivo en Power BI sobre [tema]. [Ver Repo]
+#### 🛒 Análisis de Embudo y Retención (MercadoLibre)
+* **Contexto:** Identificación de puntos de fuga y análisis de lealtad de usuarios en el proceso de compra.
+* **Stack:** SQL (CTEs, tablas temporales), Análisis de Cohortes.
+* **Metodología:** Mapeo de eventos en la tabla `mercadolibre_funnel` y cálculo de tasas de conversión.
+* **Insight:** Detección de fricción crítica en la transición de interés a compra; propuesta de activación temprana.
+
+#### 🌆 Movilidad Urbana y Productividad Económica (LATAM)
+* **Contexto:** Evaluación de la congestión vial frente al PIB para priorizar inversiones en el Latin American Development Bank.
+* **Stack:** Python (Pandas, NumPy, Matplotlib/Seaborn), Jupyter Notebook.
+* **Data:** Integración de fuentes reales (**TomTom Traffic Index** y **OECD Cities**).
+* **Insight:** Identificación de ciudades con economía fuerte pero movilidad ineficiente para inversión estratégica.
 
 ---
 
